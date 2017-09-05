@@ -1,4 +1,4 @@
-# firstpython
+#firstpython
 
 PERSONS = [
 {"NAME": "JOHN", "AGE": 12, "LOCATION": "PASIG"},
